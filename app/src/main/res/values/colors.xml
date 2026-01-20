@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Skalelit Colors -->
+    <color name="skale_primary">#FF4F46E5</color>
+    <color name="skale_secondary">#FF7C3AED</color>
+    <color name="skale_background">#FFF8FAFC</color>
+    <color name="skale_surface">#FFFFFFFF</color>
+    <color name="skale_text_head">#FF1E293B</color>
+    <color name="skale_text_body">#FF64748B</color>
+    <color name="skale_success">#FF10B981</color>
 </resources>

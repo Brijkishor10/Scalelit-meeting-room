@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme without ActionBar -->
     <style name="Theme.Skalelit" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color -->
-        <item name="colorPrimary">#FF4F46E5</item>
-        <item name="colorPrimaryVariant">#FF7C3AED</item>
+        <item name="colorPrimary">#FF7C3AED</item>
+        <item name="colorPrimaryVariant">#FF5B21B0</item>
         <item name="colorOnPrimary">#FFFFFFFF</item>
         <!-- Secondary brand color -->
-        <item name="colorSecondary">#FF7C3AED</item>
-        <item name="colorSecondaryVariant">#FF5B21B0</item>
+        <item name="colorSecondary">#FF4F46E5</item>
+        <item name="colorSecondaryVariant">#FF3E36B5</item>
         <item name="colorOnSecondary">#FFFFFFFF</item>
         <!-- Status bar -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
-        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
     </style>
 </resources>
